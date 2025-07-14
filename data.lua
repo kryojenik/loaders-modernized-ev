@@ -1,1 +1,1 @@
-require("prototypes.loaders")
+require("prototypes.ev-logistics")
